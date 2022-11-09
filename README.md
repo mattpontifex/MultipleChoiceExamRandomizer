@@ -16,6 +16,8 @@ Use
 Edit the question text file. Questions are python lists
 [Question prompt, [Correct answer, Incorrect Answer, Incorrect Answer, Incorrect Answer]]
 
+Html code can be inserted within the question and answers to show images and adjust styles for particular words (eg., <strong>NOT True</strong>).
+
 <p align="center"><img src="/screencaps/questionscreenshot.png?raw=true" width="900" alt="screencap questions"></p>
 
 
