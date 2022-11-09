@@ -1,4 +1,3 @@
-
 [
 
     [
@@ -22,7 +21,6 @@
         'Text for Incorrect Answer 3.']]
     
     ],
-    
     [
     
         ['Example exam question prompt B1.',  
@@ -31,7 +29,7 @@
         'Text for Incorrect Answer 2.',
         'Text for Incorrect Answer 3.']],
         
-        ['Example exam question prompt B2.',  
+        ['Example exam question prompt B2 with a picture.<br /><img src="./_scatter.png"/>',  
         ['Text for Correct Answer.',
         'Text for Incorrect Answer 1.',
         'Text for Incorrect Answer 2.',
@@ -46,3 +44,4 @@
     ]
 
 ]
+
