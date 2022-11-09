@@ -1,0 +1,48 @@
+
+[
+
+    [
+    
+        ['Example exam question prompt A1.',  
+        ['Text for Correct Answer.',
+        'Text for Incorrect Answer 1.',
+        'Text for Incorrect Answer 2.',
+        'Text for Incorrect Answer 3.']],
+        
+        ['Example exam question prompt A2.',  
+        ['Text for Correct Answer.',
+        'Text for Incorrect Answer 1.',
+        'Text for Incorrect Answer 2.',
+        'Text for Incorrect Answer 3.']],
+        
+        ['Example exam question prompt A3.',  
+        ['Text for Correct Answer.',
+        'Text for Incorrect Answer 1.',
+        'Text for Incorrect Answer 2.',
+        'Text for Incorrect Answer 3.']]
+    
+    ],
+    
+    [
+    
+        ['Example exam question prompt B1.',  
+        ['Text for Correct Answer.',
+        'Text for Incorrect Answer 1.',
+        'Text for Incorrect Answer 2.',
+        'Text for Incorrect Answer 3.']],
+        
+        ['Example exam question prompt B2.',  
+        ['Text for Correct Answer.',
+        'Text for Incorrect Answer 1.',
+        'Text for Incorrect Answer 2.',
+        'Text for Incorrect Answer 3.']],
+        
+        ['Example exam question prompt B3.',  
+        ['Text for Correct Answer.',
+        'Text for Incorrect Answer 1.',
+        'Text for Incorrect Answer 2.',
+        'Text for Incorrect Answer 3.']]
+        
+    ]
+
+]
